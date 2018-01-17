@@ -1,0 +1,5 @@
+Previous word: <s>Wrong word  After word: ﻿total Word 0
+Previous word: <s>Wrong word ﻿ After word: কয়েকtotal Word 1
+ Suggested গত Frequency: 1
+Previous word: কয়েকWrong word কোঠ After word: টাকারtotal Word 1
+ Suggested কোটি Frequency: 6
